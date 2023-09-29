@@ -1,14 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=32&duration=3000&pause=1000&color=5657F7&width=435&lines=Michael+Sousa;Web+Developer;Software+Engineer)](https://git.io/typing-svg)
 
-**`i make stuff`**
-
+**`Currently trying to exit vim`**
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
       <a href="https://github.com/search?q=user%3Amichaelsousajr
       +language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
