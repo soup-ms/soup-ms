@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=32&duration=3000&pause=1000&color=5657F7&width=435&lines=Michael+Sousa;Developer;DesignerDesignerDesigner;Digital+Craftsman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=32&duration=3000&pause=1000&color=5657F7&width=435&lines=Michael+Sousa;Developer;Designer;Digital+Craftsman)](https://git.io/typing-svg)
 
 **`Currently trying to exit vim`**
 
