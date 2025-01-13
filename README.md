@@ -4,11 +4,9 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
 <p>
-  <a href="https://linkedin.com/in/michaelsousajr"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
   
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
