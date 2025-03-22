@@ -30,10 +30,10 @@
 ⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣇⠀⠀⠀⠀⠀⠀⠀⠀⢹
 ⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠈
 ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-┌─────────────────────────────ms────────────────────────────────┐
-⠀• Developing: Cli Plugins
-⠀• Interests: Open Source, Design, Mindfulness
-⠀• Hobbies: Gaming, Weightlifting, Yoga
-⠀• Currently Learning: Rust, Cyber Security
-└───────────────────────────────────────────────────────────────┘
+                ┌──────────────────────────────────────────────┐
+⠀                • Developing: Cli Plugins
+⠀                • Interests: Open Source, Design, Mindfulness
+                ⠀• Hobbies: Gaming, Weightlifting, Yoga
+                ⠀• Currently Learning: Rust, Cyber Security
+                └──────────────────────────────────────────────┘
 ```
